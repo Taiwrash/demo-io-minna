@@ -1,11 +1,11 @@
 # demo-io-minna
-
+> [See today's slides here](https://docs.google.com/presentation/d/1vu6_5NwBIXlYVlimIE_ZvSqknvsIgUVqGBhPafRZIPI/edit?usp=sharing)
 ## Checklist
 1. Configure your GCloud environment and account for Gemini
 2. GKE configurations
 3. Deployment to GKE
 4. Log Analysis with Gemini
-5. Build Worker
+5. Build Worker Pool
 
 
 ### Task 1:
